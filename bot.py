@@ -11,7 +11,7 @@ GROUP_ID = "@sepix_gap"
 ADMIN_ID = 826685726
 BOT_USERNAME = "sepix_codm_bot"
 DB_FILE = "users.json"
-BOT_TOKEN = os.environ.get("BOT_TOKEN")  # امن‌تر
+BOT_TOKEN = os.environ.get("7867275226:AAF7z0xC5OExUw02WeILCPDE_e5xvFmxUTQ")  # امن‌تر
 
 # --- بارگذاری کاربران ---
 def load_users():
